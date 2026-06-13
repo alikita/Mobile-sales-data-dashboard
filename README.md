@@ -45,10 +45,9 @@ The dataset contains mobile sales information, including:
 - Track key business KPIs in real time.
 
 ## Dashboard 
-<img width="1112" height="626" alt="Mobile sales data dashboard screenshot" src="https://github.com/user-attachments/assets/3e2f6992-045b-4875-8d7c-5a55aed9c5c2" />
+<img width="1117" height="627" alt="Mobile sales data dashboard screenshot" src="https://github.com/user-attachments/assets/0b5ff224-c9b7-4b97-ad7a-cd3d151ca860" />
 
 ## Learning Outcomes
-
 - Data Cleaning and Transformation
 - Power BI Dashboard Development
 - KPI Creation and Analysis
