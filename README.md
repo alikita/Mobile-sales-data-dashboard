@@ -45,7 +45,7 @@ The dataset contains mobile sales information, including:
 - Track key business KPIs in real time.
 
 ## Dashboard 
-
+<img width="1112" height="626" alt="Mobile sales data dashboard screenshot" src="https://github.com/user-attachments/assets/3e2f6992-045b-4875-8d7c-5a55aed9c5c2" />
 
 ## Learning Outcomes
 
